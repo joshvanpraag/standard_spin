@@ -1,7 +1,5 @@
 site: Board Jekyll Theme
 
-baseurl: 'standard_spin'
-
 collections:
   pages:
     output: true
